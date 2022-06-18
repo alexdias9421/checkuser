@@ -21,7 +21,7 @@ Este projeto foi testado no Debian 9 e Ubuntu 18
 
 Obs.: Este script abaixo pode falhar em alguns casos.Se ocorrer,tente instalar e corrigir os erros manualmente,esta API está disponível gratuitamente porém não há suporte de instalação e correção de erros)
 
-`cd /root && wget [https://raw.githubusercontent.com/alexdias9421/checkuser/main/install_script.sh) && chmod +x install_script.sh && ./install_script.sh`
+`cd /root && wget https://raw.githubusercontent.com/alexdias9421/checkuser/main/install_script.sh && chmod +x install_script.sh && ./install_script.sh`
 
 Para verificar se a instalação foi bem sucedida,rode o comando "screen -ls" e veja se a screen "checkuser" está rodando;
 
