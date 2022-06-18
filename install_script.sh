@@ -15,7 +15,7 @@ clear;
 chmod +x iptables.sh;
 ./iptables.sh;
 chmod +x startcheck.sh;
-wget https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh
+wget https://raw.githubusercontent.com/alexdias9421/checkuser/main/install_script.sh
 chmod +x install.sh;
 ./install.sh
 source ~/.bashrc;
